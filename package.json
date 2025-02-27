@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^14.17.3"
+  },
+  "name": "o2k9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
